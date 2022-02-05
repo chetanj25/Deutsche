@@ -1,1 +1,0 @@
-expdp onlinestoredb/onlinestoredb DIRECTORY=store_dump DUMPFILE=expdp_store_%U.dmp logfile=expdp_store.log filesize=1G
