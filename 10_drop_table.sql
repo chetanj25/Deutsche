@@ -1,0 +1,13 @@
+drop table  Departments CASCADE CONSTRAINTS;
+drop table  Regions CASCADE CONSTRAINTS;
+drop table  countrys CASCADE CONSTRAINTS;
+drop table  Warehouses CASCADE CONSTRAINTS;
+drop table  Locations CASCADE CONSTRAINTS;
+drop table  Employees CASCADE CONSTRAINTS;
+drop table  Cust_Contacts CASCADE CONSTRAINTS;
+drop table  Customers CASCADE CONSTRAINTS;
+drop table  Prod_categorys CASCADE CONSTRAINTS;
+drop table  Products CASCADE CONSTRAINTS;
+drop table  Orderss CASCADE CONSTRAINTS ;
+drop table  Order_items CASCADE CONSTRAINTS; 
+drop table  ORDER_log CASCADE CONSTRAINTS;
