@@ -18,3 +18,5 @@ Files are with naming order and same needs to be executed.
 08_all_objects
 09_exp_table
 10_drop_table
+schema_erd
+tables_erd
